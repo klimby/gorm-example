@@ -2,7 +2,7 @@ package routers
 
 import (
 	"github.com/gin-gonic/gin"
-	controllers "github.com/lakhinsu/gorm-example/controllers"
+	controllers "github.com/klimby/gorm-example/controllers"
 )
 
 // Function to setup routers and router groups

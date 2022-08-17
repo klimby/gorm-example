@@ -2,9 +2,9 @@ package app
 
 import (
 	"github.com/gin-gonic/gin"
-	middlewares "github.com/lakhinsu/gorm-example/middlewares"
-	routers "github.com/lakhinsu/gorm-example/routers"
-	"github.com/lakhinsu/gorm-example/utils"
+	middlewares "github.com/klimby/gorm-example/middlewares"
+	routers "github.com/klimby/gorm-example/routers"
+	"github.com/klimby/gorm-example/utils"
 	"github.com/rs/zerolog/log"
 )
 

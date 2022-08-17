@@ -13,3 +13,12 @@
 
 # Dependency directories (remove the comment below to include it)
 # vendor/
+
+# IDEs and editors
+!/.idea
+.idea/workspace.xml
+.idea/dataSources
+/.idea/httpRequests/
+/.idea/shelf/
+
+/tmp

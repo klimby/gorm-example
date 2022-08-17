@@ -7,8 +7,8 @@ import (
 	"time"
 
 	"github.com/gin-gonic/gin"
-	models "github.com/lakhinsu/gorm-example/models"
-	"github.com/lakhinsu/gorm-example/utils"
+	models "github.com/klimby/gorm-example/models"
+	"github.com/klimby/gorm-example/utils"
 	"github.com/rs/zerolog/log"
 	"gorm.io/gorm"
 )

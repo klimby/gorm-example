@@ -9,7 +9,7 @@ import (
 	"gorm.io/gorm"
 
 	"github.com/gin-gonic/gin"
-	models "github.com/lakhinsu/gorm-example/models"
+	models "github.com/klimby/gorm-example/models"
 	"github.com/rs/zerolog/log"
 )
 

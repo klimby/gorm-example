@@ -1,7 +1,7 @@
 package utils
 
 import (
-	consts "github.com/lakhinsu/gorm-example/consts"
+	consts "github.com/klimby/gorm-example/consts"
 	"github.com/rs/zerolog/log"
 	"github.com/spf13/viper"
 )

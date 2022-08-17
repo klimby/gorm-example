@@ -4,8 +4,8 @@ import (
 	"fmt"
 
 	"github.com/gin-gonic/gin"
-	app "github.com/lakhinsu/gorm-example/app"
-	utils "github.com/lakhinsu/gorm-example/utils"
+	app "github.com/klimby/gorm-example/app"
+	utils "github.com/klimby/gorm-example/utils"
 	"github.com/rs/zerolog/log"
 )
 
